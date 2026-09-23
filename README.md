@@ -64,7 +64,7 @@ a solution to REST over-fetching.
 400 Bad Request             Invalid request/validation failure
 404 Not Found               Product or route not found
 
-# API Testing Screenshots with Thunder Sream:
+# API Testing Screenshots with Thunder Client:
 
 <img width="477" height="449" alt="200 Ok" src="https://github.com/user-attachments/assets/be1cc352-0456-4fda-8337-78827bfb115f" />
 
