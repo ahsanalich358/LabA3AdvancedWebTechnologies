@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce-api-lab-03",
+  "version": "1.0.0",
+  "description": "E-Commerce REST API with GraphQL - Lab Assignment 03",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.10.1"
+  }
+}
